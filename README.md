@@ -40,7 +40,7 @@ Below is an overview of the core functionalities:
 ### Clone the Repository  
 
 ```sh  
-git clone https://github.com/canmundane-org/coin-promoting-app
+git clone https://github.com/gauravmandall/coin-promoting-app
 cd coin-promoting-app  
 ```  
 
